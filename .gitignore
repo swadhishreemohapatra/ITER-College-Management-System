@@ -1,0 +1,7 @@
+# compiled output
+*.exe
+*.o
+college_management
+
+# runtime data created by the program
+*.dat
