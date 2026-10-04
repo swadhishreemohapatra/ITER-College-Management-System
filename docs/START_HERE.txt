@@ -1,0 +1,20 @@
+UPLOAD KIT - upload each numbered folder in order (do NOT upload this file)
+
+For every folder:
+ 1. In Chrome, click the address bar, press Ctrl+A, type the address shown below, press Enter.
+ 2. Click "choose your files", open the numbered folder, press Ctrl+A to select all files, click Open.
+ 3. Type the commit message shown below and click the green "Commit changes" button.
+
+1_driver              github.com/swadhishreemohapatra/ITER-College-Management-System/upload/main/driver
+                      message: Add Linux device driver              (3 files)
+
+2_scripts             github.com/swadhishreemohapatra/ITER-College-Management-System/upload/main/scripts
+                      message: Add build and demo scripts           (5 files)
+
+3_docs                github.com/swadhishreemohapatra/ITER-College-Management-System/upload/main/docs
+                      message: Add stage documents                  (7 files)
+
+4_docs_screenshots    github.com/swadhishreemohapatra/ITER-College-Management-System/upload/main/docs/screenshots
+                      message: Add screenshots folder               (1 file)
+
+Folders 1 and 2 are the Linux part (the device driver and its scripts).
