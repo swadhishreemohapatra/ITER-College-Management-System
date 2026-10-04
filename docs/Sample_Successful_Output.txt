@@ -1,0 +1,26 @@
+SAMPLE SUCCESSFUL OUTPUT
+
+$ gcc src/main.c -o college_management
+$ ./college_management
+
+========================================
+   INSTITUTE OF TECHNICAL EDUCATION
+       AND RESEARCH, BHUBANESWAR
+========================================
+
+Username: admin
+Password: admin123
+
+Login successful.
+
+College Management System
+1. Student Management
+2. Faculty Management
+3. Course Management
+4. Attendance Management
+5. Result Management
+6. Fee Management
+7. Dashboard
+8. Exit
+
+Program compiled and executed successfully in the development environment.
